@@ -4,4 +4,7 @@
 
 #define CMAKE_DEP_2
 
-void run_cmake_dep_2( void );
+void run_cmake_dep_2( void )
+{
+    std::cout << "CMake dep 2 works!\n";
+}
